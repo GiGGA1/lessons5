@@ -1,0 +1,8 @@
+.text1 {
+	float: left;
+}
+.text2 {
+	float: right;
+.clear {
+	clear: both;
+}

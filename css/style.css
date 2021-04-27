@@ -120,6 +120,20 @@
 	float: left;
 }
 
+.manu2::after{
+	content: '';
+	clear: both;
+	display: block;
+}
+.manu3::after{
+	content: '';
+	clear: both;
+	display: block;
+}
+
 .clear {
 	clear: 
 }
+/*.body ::after {
+	content: '\2725';
+}*/
